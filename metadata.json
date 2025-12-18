@@ -1,0 +1,7 @@
+{
+  "name": "FitCrown Enterprise - Agribusiness Professional Hub",
+  "description": "A professional, trust-building agribusiness hub for agricultural excellence, training, and strategic collaborations in Nigeria.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
